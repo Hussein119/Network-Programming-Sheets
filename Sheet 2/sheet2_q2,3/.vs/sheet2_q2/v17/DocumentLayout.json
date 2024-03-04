@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Collage\\8th\\Network Programming\\Network Programming Sheets\\Sheet 2\\sheet2_q2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2551B1-7CB3-4677-BCA8-54C4A4E8DDB7}|sheet2_q2\\sheet2_q2.csproj|D:\\Collage\\8th\\Network Programming\\Network Programming Sheets\\Sheet 2\\sheet2_q2\\sheet2_q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE2551B1-7CB3-4677-BCA8-54C4A4E8DDB7}|sheet2_q2\\sheet2_q2.csproj|solutionrelative:sheet2_q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2551B1-7CB3-4677-BCA8-54C4A4E8DDB7}|sheet2_q2\\sheet2_q2.csproj|d:\\collage\\8th\\network programming\\network programming sheets\\sheet 2\\sheet2_q2\\sheet2_q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2551B1-7CB3-4677-BCA8-54C4A4E8DDB7}|sheet2_q2\\sheet2_q2.csproj|solutionrelative:sheet2_q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Collage\\8th\\Network Programming\\Network Programming Sheets\\Sheet 2\\sheet2_q2\\sheet2_q2\\Form1.cs",
+              "RelativeDocumentMoniker": "sheet2_q2\\Form1.cs",
+              "ToolTip": "D:\\Collage\\8th\\Network Programming\\Network Programming Sheets\\Sheet 2\\sheet2_q2\\sheet2_q2\\Form1.cs",
+              "RelativeToolTip": "sheet2_q2\\Form1.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAYwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T20:08:36.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Collage\\8th\\Network Programming\\Network Programming Sheets\\Sheet 2\\sheet2_q2\\sheet2_q2\\Form1.cs",
+              "RelativeDocumentMoniker": "sheet2_q2\\Form1.cs",
+              "ToolTip": "D:\\Collage\\8th\\Network Programming\\Network Programming Sheets\\Sheet 2\\sheet2_q2\\sheet2_q2\\Form1.cs [Design]",
+              "RelativeToolTip": "sheet2_q2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T20:08:36.743Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

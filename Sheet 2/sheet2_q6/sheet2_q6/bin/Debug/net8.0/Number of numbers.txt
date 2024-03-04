@@ -1,0 +1,6 @@
+Number of 1s: 170
+Number of 2s: 168
+Number of 3s: 155
+Number of 4s: 159
+Number of 5s: 185
+Number of 6s: 163

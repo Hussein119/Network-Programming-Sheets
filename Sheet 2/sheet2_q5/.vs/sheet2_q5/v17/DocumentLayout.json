@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Collage\\8th\\Network Programming\\Network Programming Sheets\\Sheet 2\\sheet2_q5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD36840C-928B-4AA2-86A4-E458DA59D9E3}|sheet2_q5\\sheet2_q5.csproj|d:\\collage\\8th\\network programming\\network programming sheets\\sheet 2\\sheet2_q5\\sheet2_q5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD36840C-928B-4AA2-86A4-E458DA59D9E3}|sheet2_q5\\sheet2_q5.csproj|solutionrelative:sheet2_q5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Collage\\8th\\Network Programming\\Network Programming Sheets\\Sheet 2\\sheet2_q5\\sheet2_q5\\Program.cs",
+              "RelativeDocumentMoniker": "sheet2_q5\\Program.cs",
+              "ToolTip": "D:\\Collage\\8th\\Network Programming\\Network Programming Sheets\\Sheet 2\\sheet2_q5\\sheet2_q5\\Program.cs",
+              "RelativeToolTip": "sheet2_q5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:18:23.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
